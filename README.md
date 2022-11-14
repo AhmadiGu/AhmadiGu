@@ -8,3 +8,18 @@ Hi there 👋 I am Gulalai
 
 -📫 How to reach me: ahmadigulalai76@gmail.com
 
+ 💫 My stack
+
+   css
+   html 
+   bootstrap 
+   js 
+   mySql
+   database_analysis
+
+ 📞 Let's Connect
+
+    EMAIL 
+    linkdin 
+    TWITTER
+
